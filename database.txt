@@ -1,4 +1,4 @@
-Scratch is a coding website/platform
-@ScratchTheCoder12345 is a Python developer who created this with @jvn11
-Among us is very dead...
-never gonna give you up
+Hello World!
+Scratch is a coding website 
+Searchy has a Python backend
+Searchy was made by @ScratchTheCoder12345,@jvn11 and @Air_heads
